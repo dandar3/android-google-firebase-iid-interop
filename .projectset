@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-firebase-iid-interop/tags/1.0.0,google-firebase-iid-interop,508f8b3f8e87001d16faba7befe97197;https://github.com/dandar3/android-google-firebase-iid-interop;https://github.com/dandar3/android-google-firebase-iid-interop;branches;tags;trunk;true;f7adb83e-0203-bab7-ebfc-ce57b7db7bff;https://github.com/dandar3/android-google-firebase-iid-interop;;false;;;0"/>
+</provider>
+</psf>
